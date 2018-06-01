@@ -30,6 +30,7 @@ public class ProjectGit {
 			    fenetre.setVisible(true);
 			}
 		}
-	}
+	}        
+}     
 
-}
+
