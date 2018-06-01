@@ -10,6 +10,7 @@ public class ProjectGit {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println( "Bonjour Bordeaux!!" );
+		System.out.println("Hello !!");
 		
 
         for(int i=0;i<20;i++){
